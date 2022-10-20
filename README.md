@@ -39,9 +39,9 @@ Student at International Institute of Information Technology, Pune.
 
 - 👨🏽‍💻 I’m getting familiar with Zero Trust Network :wink:;
 
-- 🌱 I’m currently learning about **React and Blockchain**
+- 🌱 I’m currently learning about **React and Blockchain**.
 
-- 👨‍💻 All about me is at [My Website](https://UdayKharatmol.github.io/)
+- 👨‍💻 All about me is at [My Website](https://UdayKharatmol.github.io/).
 
 - 📝 Mostly I work on Applications based on CSS,C++, Html, JS, Python,!
 
