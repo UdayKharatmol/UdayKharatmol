@@ -1,7 +1,7 @@
 # I'm UdayKharatmol 👩🏻‍💻
 
 ### Hallo there  ![]( https://visitor-badge.glitch.me/badge?page_id=udaykharatmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 📫 How to reach me [@UdayKharatmol](https://www.google.com/search?),Mail:udaykharatmol2@gmail.com,
+- 📫 How to reach me [@UdayKharatmol](https://www.google.com/search?),Mail:udaykharatmol3@gmail.com,
   
   <a href="https://twitter.com/@uday_kharatmol">
    <img align="left" alt="Uday Kharatmol | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -55,7 +55,6 @@ Student at International Institute of Information Technology, Pune.
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayKharatmol&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <div style="display: flex; flex-direction: row;">
