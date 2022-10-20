@@ -24,9 +24,15 @@
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
 
 Student at International Institute of Information Technology, Pune.
+- 🔭 I’m currently working on Web App Dev.
+
+- 🤔 I’m looking for help with Backend part for my projects.
+
+- 😄 Pronouns: He
+
 - 👨🏽‍💻 I’m getting familiar with Zero Trust Network :wink:;
 
-- 🌱 I’m currently learning about **React and Blockchai**
+- 🌱 I’m currently learning about **React and Blockchain**
 
 - 👨‍💻 All about me is at [My Website](https://UdayKharatmol.github.io/)
 
@@ -34,11 +40,12 @@ Student at International Institute of Information Technology, Pune.
 
 - 💬 Ask me about anything, I am happy to help;
 
+- ⚡ Fun fact: There is no time limit to learn.
+
 - 📫 How to reach me [@UdayKharatmol](https://www.google.com/search?);
-udaykharatmol3@gmail.com.
-<a href="https://github.com/uday_kharatmol/">
-  <img align="left" alt="Uday Kharatmol's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+   udaykharatmol3@gmail.com;<a href="https://github.com/uday_kharatmol/">
+  <img align="" alt="Uday Kharatmol's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>.
 
 
 
