@@ -18,12 +18,23 @@
 
 <br><br>
 
-[![@Uday Kharatmol's Holopin board](https://holopin.io/@UdayKharatmol)](https://holopin.io/@uday03)
+[![@UdayKharatmol's Holopin board](https://holopin.me/@Uday03)](https://holopin.io/@uday03)
 
 
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
 
 Student at International Institute of Information Technology, Pune.
+- 👨🏽‍💻 I’m getting familiar with Zero Trust Network :wink:;
+
+- 🌱 I’m currently learning about **React and Blockchai**
+
+- 👨‍💻 All about me is at [My Website](https://UdayKharatmol.github.io/)
+
+- 📝 Mostly I work on Applications based on CSS,C++, Html, JS, Python,!
+
+- 💬 Ask me about anything, I am happy to help;
+
+- 📫 How to reach me [@UdayKharatmol](https://www.google.com/search?sxsrf=ALeKk01ir2PPToiZJ2H0nLG2f_bDP3WNug%3A1615055125080&source=hp&ei=FclDYJvWAcSpmgey_IfYBw&iflsig=AINFCbYAAAAAYEPXJaBfWsAkBTqkkgMVa3k32cJcsju0&q=fineanmol&btnK=Google+Search);
 - 📫 How to reach me: udaykharatmol3@gmail.com.
 ![Profile views](https://github.com/UdayKharatmol)  
 
