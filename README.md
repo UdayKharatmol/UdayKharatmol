@@ -1,4 +1,4 @@
-### Hi there 👋, I'm UdayKharatmol 👩🏻‍💻
+# I'm UdayKharatmol 👩🏻‍💻
 
 ### Hallo there  ![]( https://visitor-badge.glitch.me/badge?page_id=udaykharatmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/@uday_kharatmol">
