@@ -11,7 +11,7 @@
   <img align="left" alt="Uday Kharatmol's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/uday_kharatmol/">
-  <img align="left" alt="Anmol Agarwal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Uday Kharatmol's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
@@ -34,9 +34,11 @@ Student at International Institute of Information Technology, Pune.
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 📫 How to reach me [@UdayKharatmol](https://www.google.com/search?sxsrf=ALeKk01ir2PPToiZJ2H0nLG2f_bDP3WNug%3A1615055125080&source=hp&ei=FclDYJvWAcSpmgey_IfYBw&iflsig=AINFCbYAAAAAYEPXJaBfWsAkBTqkkgMVa3k32cJcsju0&q=fineanmol&btnK=Google+Search);
-- 📫 How to reach me: udaykharatmol3@gmail.com.
-![Profile views](https://github.com/UdayKharatmol)  
+- 📫 How to reach me [@UdayKharatmol](https://www.google.com/search?);
+udaykharatmol3@gmail.com.
+<a href="https://github.com/uday_kharatmol/">
+  <img align="left" alt="Uday Kharatmol's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 
 
