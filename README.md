@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm UdayKharatmol 👩🏻‍💻
 
-<!--
-**UdayKharatmol/UdayKharatmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hallo there  ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hallo there  ![]( https://visitor-badge.glitch.me/badge?page_id=udaykharatmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/@uday_kharatmol">
   <img align="left" alt="Uday Kharatmol | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
@@ -19,6 +17,8 @@
 
 
 <br><br>
+
+[![@Uday Kharatmol's Holopin board](https://holopin.io/@UdayKharatmol)](https://holopin.io/@uday03)
 
 
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
@@ -48,4 +48,3 @@ Student at International Institute of Information Technology, Pune.
 
 [![AB'z github activity graph](https://activity-graph.herokuapp.com/graph?username=UdayKharatmol&theme=gotham)](https://github.com/UdayKharatmol)
 
-[![@UdayKharatmol Holopin board](https://holopin.io/api/user/board?user=UdayKharatmol)](https://holopin.io/@UdayKharatmol)
