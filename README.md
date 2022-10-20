@@ -30,11 +30,12 @@
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
 
 Student at International Institute of Information Technology, Pune.
+
+- 😄 Pronouns: He
+
 - 🔭 I’m currently working on Web App Dev.
 
 - 🤔 I’m looking for help with Backend part for my projects.
-
-- 😄 Pronouns: He
 
 - 👨🏽‍💻 I’m getting familiar with Zero Trust Network :wink:;
 
