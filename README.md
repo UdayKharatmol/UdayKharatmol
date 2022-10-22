@@ -21,7 +21,6 @@
 
 
 
-
 <br><br>
 
 [![@UdayKharatmol's Holopin board](https://holopin.me/@Uday03)](https://holopin.io/@uday03)
