@@ -66,5 +66,4 @@ Student at International Institute of Information Technology, Pune.
 
 </div>
 
-[![Uday's github activity graph](https://activity-graph.herokuapp.com/graph?username=UdayKharatmol&theme=gotham)](https://github.com/UdayKharatmol)
 
